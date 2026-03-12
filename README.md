@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Eason Lin 👋
+# Hello there, I'm Eason Lin 👋
 
 ### 🚀 Bridging Data Engineering, Global Strategy, and Tech Innovation.
 
