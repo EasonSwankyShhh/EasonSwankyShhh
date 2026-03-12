@@ -1,6 +1,40 @@
 # 💫 About Me:
-I'm currently working on building an automatic online business and personal editing porfolio<br>I'm looking to collaborate on establishing a trustworthy scholarship website for Asian students!<br>I'm looking for help with solidifying my projects.<br>I'm currently training my physique and on a diet.<br>Ask me about traveling in Asia and networking.<br>Fun fact: a K-pop dancer and a cook
+# Hi there, I'm Eason Lin 👋
 
+### 🚀 Bridging Data Engineering, Global Strategy, and Tech Innovation.
+
+<details open>
+<summary><b>🇬🇧 English (Click to toggle / 點擊切換)</b></summary>
+<br>
+
+* 🔭 **I’m currently working on:** Building a data-driven MacBook dashboard, a Boston biotech proposal, and mastering DaVinci Resolve.
+* 🤝 **I’m looking to collaborate on:** Tech-driven platforms that help Asian students hack the US university Full-Ride scholarship system.
+* 🏋️ **AFK (Away From Keyboard):** Lifting heavy iron, cutting body fat, and testing my Stoic discipline. 
+* 💬 **Ask me about:** Surviving the UWC IB system in Costa Rica, AlphaZero chess algorithms, or global networking.
+* ⚡ **Fun fact:** When I'm not coding or reading Seneca, I'm either executing K-pop dance covers or cooking up a storm.
+</details>
+
+<details>
+<summary><b>🇹🇼 繁體中文 (Click to toggle / 點擊切換)</b></summary>
+<br>
+
+* 🔭 **目前專注於：** 開發數據驅動的 MacBook Dashboard、撰寫波士頓生技產業的國家級提案，以及精進 DaVinci Resolve 剪輯實戰。
+* 🤝 **尋求合作：** 打造值得信賴的教育科技平台，協助亞洲學生破解美國大學「全額獎學金」的申請系統。
+* 🏋️ **離開鍵盤時 (AFK)：** 挑戰大重量訓練、嚴格減脂，以及透過斯多葛學派 (Stoicism) 鍛鍊心智紀律。
+* 💬 **歡迎找我聊聊：** 哥斯大黎加 UWC 國際學校的生存指南、AlphaZero 的西洋棋演算法，或是跨國人脈拓展。
+* ⚡ **有趣的事實：** 當我不在寫 Code 或閱讀 Seneca 時，我不是在跳 K-pop cover，就是在廚房裡大顯身手。
+</details>
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, Markdown, [Your other languages]
+* **Data & Media:** Data Analytics, DaVinci Resolve (Video Strategy)
+* **Mindset:** Stoicism, High-intensity Time Blocking
+
+### 📫 Let's Connect
+* **LinkedIn:** [Your LinkedIn URL]
+* **Email:** [Your Email Address]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eason_linnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eason (林群祐) Lin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Eason Lin 林群祐) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/YakLow8938) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@台灣囡仔Eason's Daily) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Eason Lin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ealin0910@gmail.com) 
